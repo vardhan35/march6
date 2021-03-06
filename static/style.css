@@ -411,10 +411,13 @@ footer{
     .card{
         text-align: center;
         margin:1em auto;
-        width: 90%;
+        width: 100%;
     }
 
     /* Team */
+    .container-team{
+        padding: 0;
+    }
 
     .column{
         display: flex;
@@ -422,10 +425,13 @@ footer{
     }
     .team{
         margin: 1em auto;
-        width: 90%;
+        width: 100%;
     }
 
     /* Work */
+    .container-about{
+        padding: 0;
+    }
     .work{
         padding: 0;
         width: 100%;
